@@ -242,7 +242,7 @@ responses:
   utter_recipients:
   - text: These are your known recpients to whom you can send money:{formatted_recipients}
   utter_greet:
-  - text: Hi! I'm your Financial Assistant!
+  - text: Hi! I'm Shola Welcome to HomeWin Lottery!
   utter_ask_handoff:
   - text: It looks like you want to be transferred to a human agent.
   utter_handoff:
